@@ -60,7 +60,14 @@ a {
 	margin-right: 50px;
 }
 
-
+input[type='button'] {
+	padding: 8px 18px;
+	background-color: orange;
+	color: white;
+	font-weight: bold;
+	border: 0px;
+	border-radius: 100px;
+}
 
 body {
 	background: #4915f8;
